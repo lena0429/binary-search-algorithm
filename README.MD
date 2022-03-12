@@ -27,5 +27,6 @@ Given the above example, if we want to search a tarfet with a value 13, there ar
         <br />     `start <- mid + 1`
         <br /> `}`
     <br /> `}`
+      <br /> return -1
 <br /> `}`
 
