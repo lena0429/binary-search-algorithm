@@ -13,19 +13,19 @@ Given the above example, if we want to search a tarfet with a value 13, there ar
 * case 3: target > Array[mid]
 
 #### We can define our sudo code as below:
-`binarySearch(Array, n, target){
-    start <- 0
-    end <- n - 1
-    while(start <= end){
-        mid <- (start + end) / 2
-        if Array[mid] == target
-        return mid
-        eles if target < Array[mid]
-        {
-            end <= mid - 1
-        } else {
-            start <- mid + 1
-        }
-    }
-}`
+`binarySearch(Array, n, target){`
+    `start <- 0`
+    `end <- n - 1`
+    `while(start <= end){`
+        `mid <- (start + end) / 2`
+        `if Array[mid] == target`
+        `return mid`
+        `eles if target < Array[mid]`
+        `{`
+            `end <= mid - 1`
+        `} else {`
+            `start <- mid + 1`
+        `}`
+    `}`
+`}`
 
