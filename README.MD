@@ -14,7 +14,7 @@ Given the above example, if we want to search a tarfet with a value 13, there ar
 
 #### We can define our sudo code as below:
 `binarySearch(Array, n, target){`
-    `start <- 0`
+ <br />   `start <- 0`
     `end <- n - 1`
     `while(start <= end){`
         `mid <- (start + end) / 2`
