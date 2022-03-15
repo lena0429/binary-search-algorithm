@@ -6,7 +6,7 @@
 * Note that a sorted array is a precondition for binary search.  
 
 ### Example
-<img src="./binary search example.jpg" alt="an example" />
+
 Given the above example, if we want to search a tarfet with a value 13, there are three cases in total:
 * case 1: target == Array[mid]
 * case 2: target < Array[mid]
